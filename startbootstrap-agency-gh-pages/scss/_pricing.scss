@@ -1,16 +1,19 @@
 // styling pricing section
 
 .pricing-title {
-    margin: auto;
+  margin: auto;
+  font-weight: 700;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.pricing-text {
+  ul {
+    list-style: none;
   }
 
-.pricing-text{
-    ul{
-        list-style: none;
-        
-    }
-
-    i{
-        margin-right: 0.5em;
-    }
+  i {
+    margin-right: 0.5em;
+  }
 }
