@@ -1,13 +1,16 @@
 // styling pricing section
 
-.pricing-title{
-    font-size: 4em;
-}
+.pricing-title {
+    margin: auto;
+  }
 
 .pricing-text{
     ul{
         list-style: none;
-        color: black;
-        font-family: arial;
+        
+    }
+
+    i{
+        margin-right: 0.5em;
     }
 }
